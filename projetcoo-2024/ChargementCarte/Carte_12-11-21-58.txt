@@ -1,0 +1,38 @@
+J
+35
+100
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                 C S  RS                                                                            
+K              R     S                                                                              
+ K             R SC      SR                                                                         
+ K               S                       C     S                                                    
+ KK  KK        S  S     C          R R   R S  RS                                  S    R  R         
+  KK K         C        S         RSS   RR      R                                     S  R R        
+ K    K       R         CSR                S    S                      S    R    SC       S         
+ KKK  K          C                 CRRR                                R  S            R            
+                 S    S              S S     SC                              S       S S            
+                       S                    S                    R     S       S S S   R  R         
+K KK K          R   SC                     R   RS                S      RSR SC  C     RR   S        
+  K   K             S C              SC   R                      R C S       R S   R      S         
+   KKK            C               S C R    S R                      R       C     RS S              
+   K KK                              SR S   R                               C     R       R         
+      K        @      BB             S      R                      C  S C  SC         S    S        
+   K K                 CC            RSS S      S              C   C   C  S        S      R         
+    K            CC  C                                       C   S SC S    R    S   RS S S C        
+  K                   C CC  C                                 C       C    R    S                   
+  K                       C                                        R C    C    R      R             
+K K K K             C  C C                                          C C    R   S  S    R            
+             S     C S   CC                                          B   C R   SS S                 
+              S   S   C                                      C       C  C  S   S S   C S  SR        
+      K    S SS   SC RC                                           C      C              SSS         
+          SS  S SR                                            C C      C                            
+            R R         C                                      C B            CSR     S  C          
+             RS   C                                              C            SR      RS  CC        
+          S  C  R   C C C CC                                  CC      C  B       SR S               
+          R RSR                                               C    C     C           S SR           
+               S                                                               S SR     S           
+                  RR                                                               RSC              
+               R   S                                                                                
+         S    RS    RR                                                                              

@@ -1,0 +1,38 @@
+J
+35
+100
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKRKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+K                                   RRR                                       RR                   K
+K       KRC                                                         R  R            R              K
+K                                                                         R   R      R             K
+R                      CCCCCCCCCC R                                   RR           RR   R         R
+K               C    C   CCCCCCR   CCCC                                                            K
+           CCC     C  C CRRR CC CC   CR   C                                       K                K
+KRR                  CCCCCCCC                    RRRRRR             RRRRR K R   RR                 K
+K                           R           KK KK  RR RRR             KKK     R        KKKKKKKKKKKKKKKKK
+KK    RRR                                     CR R  R  KK        KRRR                    @
+R                        S  S           R RR RRRRRR RR                   S         KKKKKKKKKKKKKKKKK
+K        RRR       S    S                       KKKKK                              R   RRR         K
+K                                               RRRRRRR R R                        R       RRR     R
+R                                                                                  RRRRR           K
+K                                                                                                  K
+         K                                                       C            R R        RRR       K
+K          K  K               R     R  R                   R C   C            R  RRR              K
+               C               R  R     RR                    C R CC    C            K     R      R
+R   S   K C K                    RRRR   R                        CR   C                  KK R      K
+R        K   R                R    R  R             S            C  C                  RRR       K
+K            RR   R                                                  R  C             R       KK K
+      C  CRK    CR             R RR            RRRR    S    RRR                            K      K
+K        R     R                R                    RR     S                      R  KK           K
+                            R                       RRRRR     RR                      R   R KK     R
+R                                                         RR                            K          R
+                         K     K                      RRRR                           R   R  KK    K
+K      RRRR              K     K    R                                                   K  KKK     K
+         KKK            K S   K         RR                      K    K                       K    K
+K       KK           R   KKK   S KK    R                      K K KK    K                          K
+      RRR  RR    RRRR      KKKK   K     RR    RR            K    RK R  KKR                       K
+R        KKK           RR     K   K                        K K  R  R R   R                         R
+R                  RRRR     KKK   KKKK  RR                     RRR R     R                         K
+K                     RR    K CCCCC  K       RRR                       K                          K
+                            KKKKKKKKKK   R                               K                         R
+K              R    R     R           R                                                            K

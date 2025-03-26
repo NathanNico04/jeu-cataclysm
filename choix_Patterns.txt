@@ -1,0 +1,9 @@
+Document explicatif des patterns utilisés pour l'itération 1.
+
+Pattern Fabrique + Pattern stratégie : Choix de la fabrique à utiliser grâce au pattern stratégie puis pour la génération des  fichiers txt (thème correspondant) à partir d'un algorithme, avant de le passer à la classe carte qui se charge de créer la grille elle même.
+Choix de la stratégie dans le controleur, puis mise en place de la fabrique dans le modèle, package fabriqueCarte. Ce package contient une classe CarteFactory abstraite, qui est la classe mère de Forêtfactory et JungleFactory. CarteFactory connaît un objet de type une interface (TransformCarte). Puis on a 2 classes qui implémentent cette interface pour écrire la méthode de génération du fichier. 
+
+Pattern Stratégie : dans la classe Carte, pour sélectionner le bon algorithme de couleurs, le choix du thème à appliquer en construisant la carte ( forêt ou jungle). Donc, générer la grille avec le bon thème approprié.
+
+Pattern Etat : Pour représenter les différents états de l'animal , selon qu'il soit affamé ou rassasié son comportement n'est pas le même. Dans une classe Etat qui est abstract, et 2 classes Rassasié et Affamé qui héritent d'elle.
+La classe Etat, connait un objet de type Animal, qui est abstract, et qui a comme classes filles, Ecureuil et Singe.

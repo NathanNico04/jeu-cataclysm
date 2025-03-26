@@ -1,0 +1,31 @@
+SCÉNARIO NOMINAL : Lancer Partie
+
+1- Le joueur démarre l'application  
+2- L'application propose de créer une nouvelle carte ou de charger une carte depuis un fichier existant.
+3- Le joueur décide de charger la carte.
+4- L'application charge la carte depuis le fichier source.
+5- Le système propose de modifier la carte ou de poursuivre.
+6- Le joueur décide d'utiliser la carte tel quel sans la modifier.
+7- Le système enregistre le choix du joueur et affiche la carte avec un menu contextuel permettant au joueur de jouer.
+8- Le joueur joue avec le personnage.
+
+
+EXTENSIONS : 
+3-a : Le joueur décide de créer une nouvelle carte.
+	1- L'application lui demande d'entrer le nombre de lignes et de colonnes de sa carte.
+	2-Le joueur renseigne les différentes informations et valide.
+	3- L'application crée la carte et la charge.
+	4- Retour au point 5 du scenario nominal.
+6-a : Le joueur décide de modifier la carte.
+	2- L'application crée une nouvelle configuration de la carte et la charge.
+	1- Retour au point 5 du scénario nominal.( tant de fois que nécessaire) 
+4-a : L'application n'arrive pas à charger une la carte ( erreur de chargement).
+	1- Retour au point 2 du scénario nominal. 
+a* : Le joueur décide de quitter.
+	1- Le jeu se termine.
+
+
+
+	
+
+
